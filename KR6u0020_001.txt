@@ -1,0 +1,23 @@
+#-*- mode: mandoku-view; -*-
+#+DATE: 2015-08-31 05:55:35.392474
+#+TITLE: 大威儀請問
+#+PROPERTY: CBETA_ID T85n2884
+#+PROPERTY: ID KR6u0020
+#+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2884
+#+PROPERTY: VOL 85
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS CBETA
+#+PROPERTY: LASTPB <pb:KR6u0020_T_000-1390a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: LASTPB <pb:KR6u0020_T_001-1390a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: JUAN 1
+¶
+¶
+No.2884¶
+
+ 大威儀請問¶
+¶
+
+若有善男子善女人。不將澡豆洗手捉經及¶
+前睡眠。伏地三百億歲作廁中蟲。淨手搔癢¶
+對經漫語。八百萬億歲墮黑闇地獄。二億歲¶
+生狐兔中。經前㖒唾口銜帶亦同前罪。
